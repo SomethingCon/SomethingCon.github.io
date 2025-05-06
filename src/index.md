@@ -34,32 +34,32 @@
 
 A conference celebrating the weird and wonderful world of computing!
 
+Accepting talks now - [Submit a talk proposal!](/pages/submit/)
+
 <div class="index-container" style="width: 100%; overflow: hidden">
 <div class="index-info">
 ## Event Details
 
-**Dates:** [Month XX-XX, 20XX]  
+**Dates:** September 13-14, 2025
 **Location:** Online
-**Registration:** [Opens Month XX, 20XX]
+**Registration:** TBD
 
 ## About the Conference
 
-[Something]Con is an all-virtual gathering for people building unusual, creative, and unexpected things with technology:
+[Something]Con is an all-virtual gathering for people building unusual, creative, and unexpected things with technology. We're inspired by the likes of [!!con](https://bangbangcon.com/) and [HYTRADBOI](https://www.hytradboi.com/), and determined to persevere against the headwinds of fate that threaten to bury whimsical and optimistic computing discussion!
 
 All talks will be pre-recorded and made publicly available after the conference concludes.
+
 </div>
 <img src="/assets/conference-logo.png" class="index-photo" alt="[Something]Con logo">
 </div>
 
 ## Featured Speakers
 
-[View all speakers →](/pages/speakers/)
+[View all speakers](/pages/speakers/)
 
 ## Get Involved
 
 * [Register to attend](/pages/register/)
 * [Submit a talk](/pages/submit/)
-
-## Stay Updated
-
-This is our first year as a conference, so you have the chance to be part of something new! [Subscribe to our newsletter](/pages/newsletter/) to stay in the loop.
+* [Join the Discord](https://discord.gg/YNKqw3bwSk)
