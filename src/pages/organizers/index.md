@@ -89,7 +89,7 @@
 <div class="organizers-grid">
 
 <div class="organizer-card">
-<img src="/assets/organizers/organizer1.svg" alt="Photo of CJ Joulain" class="organizer-photo">
+<img src="/assets/organizers/cj.png" alt="Photo of CJ Joulain" class="organizer-photo">
 <div class="organizer-name">CJ Joulain</div>
 <div class="organizer-pronouns">they/them</div>
 <div class="organizer-bio">
@@ -98,7 +98,7 @@ CJ is a wonderful software engineer with a passion for creative computing and un
 </div>
 
 <div class="organizer-card">
-<img src="/assets/organizers/organizer2.svg" alt="Photo of Ella Tucker" class="organizer-photo">
+<img src="/assets/organizers/ella.png" alt="Photo of Ella Tucker" class="organizer-photo">
 <div class="organizer-name">Ella Tucker</div>
 <div class="organizer-pronouns">she/her</div>
 <div class="organizer-bio">
@@ -107,7 +107,7 @@ Ella is a wonderful computer science researcher specializing in human-computer i
 </div>
 
 <div class="organizer-card">
-<img src="/assets/organizers/organizer3.svg" alt="Photo of Reed Hummel" class="organizer-photo">
+<img src="/assets/organizers/reed.png" alt="Photo of Reed Hummel" class="organizer-photo">
 <div class="organizer-name">Reed Hummel</div>
 <div class="organizer-pronouns">they/them</div>
 <div class="organizer-bio">
@@ -129,7 +129,7 @@ Ryan is a wonderful digital artist and creative technologist who uses code as th
 </div>
 
 <div class="organizer-card">
-<img src="/assets/organizers/organizer5.svg" alt="Photo of Jim Meyer" class="organizer-photo">
+<img src="/assets/organizers/jim.png" alt="Photo of Jim Meyer" class="organizer-photo">
 <div class="organizer-name">Jim Meyer</div>
 <div class="organizer-pronouns">he/him</div>
 <div class="organizer-bio">
