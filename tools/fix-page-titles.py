@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python3
 
 """
 This script sets the title of each page to the contents of the second h1 that's on the page (the first h1 is in header.html)
