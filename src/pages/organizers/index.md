@@ -102,7 +102,8 @@ CJ is a wonderful software engineer with a passion for creative computing and un
 <div class="organizer-name">Ella Tucker</div>
 <div class="organizer-pronouns">she/her</div>
 <div class="organizer-bio">
-Ella is a wonderful computer science researcher specializing in human-computer interaction and accessibility. She believes that technology should be both functional and delightful, and is excited to showcase projects that challenge our assumptions about what computing can be.
+Ella is a software developer at Thunderhead Engineering, where she develops fire safety simulation software.
+Outside of work, she loves to experiment with game development, electronic music, and obscure tabletop RPGs.
 </div>
 </div>
 
