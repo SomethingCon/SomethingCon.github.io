@@ -112,7 +112,7 @@ Outside of work, she loves to experiment with game development, electronic music
 <div class="organizer-name">Reed Hummel</div>
 <div class="organizer-pronouns">they/them</div>
 <div class="organizer-bio">
-Reed is a wonderful systems programmer and open source contributor who enjoys building tools that make computing more accessible and enjoyable. They're particularly interested in retro computing, embedded systems, and the history of programming languages.
+Henderson Reed Hummel is a programmer and prototyper exploring esoteric user interfaces, music programming, and the weird web. Check out his [personal page](https://henderson.lol/).
 </div>
 </div>
 
