@@ -125,7 +125,7 @@ Henderson Reed Hummel is a programmer and prototyper exploring esoteric user int
 <div class="organizer-name">Ryan Mast</div>
 <div class="organizer-pronouns">they/them</div>
 <div class="organizer-bio">
-Ryan is a wonderful digital artist and creative technologist who uses code as their primary medium. They're passionate about demystifying technology and making programming more approachable for artists and creators from all backgrounds.
+Ryan is a wonderful person who will add a bio here soon.
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Ryan is a wonderful digital artist and creative technologist who uses code as th
 <div class="organizer-name">Jim Meyer</div>
 <div class="organizer-pronouns">he/him</div>
 <div class="organizer-bio">
-Jim is a weird hardware hacker and electronics enthusiast who believes that the best computing projects involve soldering irons and questionable safety practices. He's known for building strange contraptions that somehow work despite all odds.
+Jim is a weird wannabe hacker who believes that the best computing projects involve soldering irons and questionable safety practices. He's known for building strange things in electronics and wood that somehow work despite all odds.
 </div>
 </div>
 
