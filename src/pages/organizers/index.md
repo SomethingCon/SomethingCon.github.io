@@ -65,16 +65,16 @@
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
-    
+
     .organizers-bottom {
         grid-template-columns: 1fr;
         max-width: 100%;
     }
-    
+
     .organizer-card {
         padding: 1rem;
     }
-    
+
     .organizer-photo {
         width: 120px;
         height: 120px;
@@ -93,7 +93,7 @@
 <div class="organizer-name">CJ Joulain</div>
 <div class="organizer-pronouns">they/them</div>
 <div class="organizer-bio">
-CJ is a wonderful software engineer with a passion for creative computing and unusual programming languages. They love exploring the intersection of art and technology, and have organized several local tech meetups focused on experimental programming.
+CJ is a technologist who has worn various Engineering and Product hats. They have organized several local Bay Area tech meetups, are a current member of [Zinc Coop](https://zinc.coop/), and enjoy learning in community.
 </div>
 </div>
 
@@ -146,4 +146,4 @@ Have questions about the conference? Want to get involved? [Contact us](/pages/c
 
 ## Join the Team
 
-Interested in helping organize future events? We're always looking for volunteers who share our enthusiasm for weird and wonderful computing projects. Reach out to learn more about opportunities to get involved! 
+Interested in helping organize future events? We're always looking for volunteers who share our enthusiasm for weird and wonderful computing projects. Reach out to learn more about opportunities to get involved!
