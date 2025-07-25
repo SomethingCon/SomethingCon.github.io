@@ -1,10 +1,10 @@
-# [Something]Con Updates
+# Updates
 
 ## Latest Updates
 
-This would be a sort of "conference blog".
+More soon!
 
 
----
+<!-- --- -->
 
-[Subscribe to our newsletter](/pages/newsletter/) for more updates about strange and wonderful computing!
+<!-- [Subscribe to our newsletter](/pages/newsletter/) for more updates about strange and wonderful computing! -->
