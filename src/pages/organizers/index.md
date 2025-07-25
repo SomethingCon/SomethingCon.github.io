@@ -142,7 +142,7 @@ Jim is a weird wannabe hacker who believes that the best computing projects invo
 
 ## Get in Touch
 
-Have questions about the conference? Want to get involved? [Contact us](/pages/contact/) or join our [Discord community](https://discord.gg/YNKqw3bwSk)!
+Have questions about the conference? Want to get involved? [Contact us](mailto:hello@somethingcon.com) or join our [Discord community](https://discord.gg/YNKqw3bwSk)!
 
 ## Join the Team
 

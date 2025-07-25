@@ -11,4 +11,4 @@ Join us for a virtual celebration of creative and unusual computing!
 [Register Now Button]
 
 ## Questions?
-Wondering about something? Contact us at hello@somethingcon.com
+Wondering about something? Contact us at [`hello@somethingcon.com`](hello@somethingcon.com)
