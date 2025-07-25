@@ -40,7 +40,7 @@ Accepting talks now - [Submit a talk proposal!](/pages/submit/)
 <div class="index-info">
 ## Event Details
 
-**Dates:** September 13-14, 2025
+**Dates:** October 25, 2025
 **Location:** Online
 **Registration:** TBD
 

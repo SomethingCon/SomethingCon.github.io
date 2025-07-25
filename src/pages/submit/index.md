@@ -22,10 +22,10 @@ All talks will be TBD minutes long. Your submission should include:
 Important dates:
 
 - Now: Call for talk proposals opens.  
-- TBD: Proposal submissions due.  
-- TBD: Notifications sent for talk acceptance.  
-- TBD: Deadline for speakers to confirm participation.  
-- TBD: Conference\!
+- Aug 26: Proposal submissions due.  
+- Sep 17-18: Notifications sent for talk acceptance.  
+- Sep 22: Deadline for speakers to confirm participation.  
+- Oct 25: Conference\!
 
 Submissions will be reviewed by members of our organizing team.
 
