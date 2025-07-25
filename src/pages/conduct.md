@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Below, you'll find the Code of Conduct for SomethingCon events, which is a modified version of [the Exclamation Foundation Code of Conduct](https://bangbangcon.com/conduct.html). We are not associated with the Exclamation Foundation in any way, but the founding organizers met at [!!Con 2024](https://bangbangcon.com/index.html) and were inspired by the amazing community that EF created there. We've borrowed their code of conduct with their permission and we're very grateful for it. ❤️
+This is the Code of Conduct for SomethingCon events, which is a modified version of [the Exclamation Foundation Code of Conduct](https://bangbangcon.com/conduct.html). We're not associated with the Exclamation Foundation in any way, but SomethingCon's founding organizers met at [!!Con 2024](https://bangbangcon.com/index.html) and were inspired by the amazing community that EF created there. We've borrowed their code of conduct with their permission and we're very grateful to them for it. ❤️
 
 Our Code of Conduct is a little different than most: where many Codes of Conduct start and stop at preventing harassment, ours is **part of an intentional effort to define the culture of SomethingCon events**. We don't think that SomethingCon is something that you passively participate in; everyone who attends **helps construct SomethingCon** and, ideally, makes it a better conference.
 
