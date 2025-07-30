@@ -29,4 +29,4 @@ Important dates:
 
 Submissions will be reviewed by members of our organizing team.
 
-***If you have any questions about the submission and review process, please reach out to [`organizers@somethingcon.com](mailto:organizers@somethingcon.com).***
+***If you have any questions about the submission and review process, please reach out to [`organizers@somethingcon.com`](mailto:organizers@somethingcon.com).***
